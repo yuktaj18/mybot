@@ -65,7 +65,6 @@ The robot consists of:
 - Creating configuration files
 
 ---
----
 ## Video
 
----
+
