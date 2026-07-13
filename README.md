@@ -67,6 +67,6 @@ The robot consists of:
 ---
 ## Video
 <p align="center">
-  <img src="media/mybot" width="700">
+  <img src="media/mybot.gif" width="700">
 </p>
 
